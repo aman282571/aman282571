@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Know something about me:
 
 
 - 🌱 I’m currently learning Python and CP :)
