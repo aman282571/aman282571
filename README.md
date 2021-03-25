@@ -3,7 +3,7 @@
 
 Know something about me:
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman282571&label=Profile%20views&color=0e75b6&style=flat" alt="aman282571" /> </p>
 - 🌱 I’m currently learning Python and CP :)
 - 💬 Ask me about MERN Stack.😉
 - 📫 See my [Portfolio](http://aman282571.github.io/portfolio)..
